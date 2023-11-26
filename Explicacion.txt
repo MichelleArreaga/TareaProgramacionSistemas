@@ -1,0 +1,1 @@
+Las estrcuturas etsan compuestas de tal manera que sigue orden sin embargo se decide que ciertas esten puetsas un entero antes que los chars como se muestran 
